@@ -1,12 +1,11 @@
-import React from 'react'
-import './HomeContainer.css'
-import PubgCraftonIcon from './images/pubg crafton.png'
-import TencentLogo from './images/tencentgames1.png'
-import QuantumLogo from './images/quantum.png'
-import PubgLogo from './images/pubg-logo-1.png'
-import Animate from 'animate.css-react'
-import 'animate.css/animate.css'
-import { motion } from 'framer-motion'
+import React from 'react';
+import './HomeContainer.css';
+import PubgCraftonIcon from './images/pubg crafton.png';
+import TencentLogo from './images/tencentgames1.png';
+import QuantumLogo from './images/quantum.png';
+import PubgLogo from './images/pubg-logo-1.png';
+import 'animate.css/animate.css';
+import { motion } from 'framer-motion';
 
 function HomeContainer() {
     return (

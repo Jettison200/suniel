@@ -17,7 +17,7 @@ function HomeContainer() {
                         <div className="text-box">
                             <h1 className="prm-text">Gamerz Allure's</h1>
                             <h1 className="prm-text">PUBG mobile Tournament</h1>
-                            <a target='_blank' href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link">
+                            <a target='_blank' rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link">
                                 <button className="register-btn">Register Now</button>
                             </a>
                             <a target='_blank' href="#">
@@ -39,7 +39,7 @@ function HomeContainer() {
                     <div className="grid-2-info">
                         <h2 className="admission-price">admission price $2000JMD</h2>
                         <h2 className="date">date october 28 2020</h2>
-                        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link"><button className="register-btn-2">Register</button></a>
+                        <a  href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link"><button className="register-btn-2">Register</button></a>
                    </div>
                 </div>
                

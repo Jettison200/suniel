@@ -20,7 +20,7 @@ function HomeContainer() {
                             <a target='_blank' rel="noopener noreferrer" href="https://docs.google.com/forms/d/e/1FAIpQLSdfoQ9ZVqXhWAW-41wrkZUEAz14506XtkYDTuTDYxDzbQN1Kg/viewform?usp=sf_link">
                                 <button className="register-btn">Register Now</button>
                             </a>
-                            <a target='_blank' href="#">
+                            <a target='_blank' rel="noopener noreferrer" href="/">
                                 <button className="register-btn">mORE INFO</button>
                             </a>  
                         </div>
@@ -53,4 +53,4 @@ function HomeContainer() {
     )
 }
 
-export default HomeContainer
+export default HomeContainer;
